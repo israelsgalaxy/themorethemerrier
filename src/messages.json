@@ -1,0 +1,9 @@
+{
+  "q1": "What level are you in? (Level in digits e.g. 100, 400)",
+  "q2": "How should your ride partner(s) contact you? (Platform : Username e.g. Instagram : John_Doe, Telegram : @John_Doe)",
+  "q3": "Where are you going? (City/Town/Area/Place e.g. Maryland, Murtala Mohammed Airport)",
+  "errorMessage": "Something's wrong, but I'm working on it. Please try again soon.",
+  "thankYouMessage": "Thank you for answering my questions. I'd let you know when I find a ride partner for you. Meanwhile, please do yourself (or someone else) a favor by sharing this bot anyway you can. By doing this, you'd be helping yourself (or someone else) find your (or their) ride partners as quickly as possible.",
+  "startMessage": "This bot helps you pay less for your rides by pairing you with people (ride partners) going to the same destination as you to split the ride fee with\n\nPlease read instructions before commencing bot usage\n\nCOMMANDS\n/start: View start message\n/instructions: View bot instructions\n/dev: View developer contact\n/list: Get listed as a user\n/unlist: Get unlisted as a user",
+  "instructionsMessage": "-To receive ride partners, you have to get listed as a user first\n-Send the /list command to answer the questions that would enable you as a user\n-To answer a question, you MUST 'reply to' the message containing the question with your answer. To reply to a message, hold (right click for PC) the message containing the question you want to reply to, and click 'Reply' on the dropdown menu that appears\n-After answering all questions, you'll be set to receieve matching ride partners"
+}
